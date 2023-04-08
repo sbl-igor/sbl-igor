@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sbl-igor/sbl-igor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div>
+  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM1NjcyY2E2MTk1ZTJjY2U3NGYxYjMxOGEyOWExNDgwOGM2ZTQwZSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif'>
+</div>
